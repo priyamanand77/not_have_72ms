@@ -6,7 +6,7 @@
    
       git clone -b master https://github.com/priyamanand77/not_have_72ms.git
 
-   **2. Go to the file**
+   **2. Go to the folder**
          
       cd not_have_72ms
 
