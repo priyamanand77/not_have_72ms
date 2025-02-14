@@ -1,0 +1,14 @@
+__________total word count__________
+108801
+
+
+__________top 5 Most Frequent Word__________
+{not=1139, whale=907, now=775, had=769, have=753}
+
+
+__________sorted Top 50 Unique Words__________
+[aback, abaft, abandon, abandoned, abandonedly, abandonment, abased, abasement, abashed, abate, abated, abatement, abating, abbreviate, abbreviation, abeam, abed, abednego, abegging, abel, abhorred, abhorrence, abhorrent, abhorring, abide, abided, abiding, ability, abjectly, abjectus, able, ablutions, aboard, abode, abominable, abominate, abominated, abomination, aboriginal, aboriginally, aboriginalness, abortion, abortions, abound, abounded, abounding, aboundingly, aboveground, abovementioned, abraham]
+
+
+__________total execution time in ms__________
+79
