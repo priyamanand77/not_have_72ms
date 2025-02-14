@@ -1,0 +1,48 @@
+{
+	"info": {
+		"_postman_id": "a287fea4-8c4c-4b18-baf4-791117b740dd",
+		"name": "word-collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17306682",
+		"_collection_link": "https://interstellar-star-69220.postman.co/workspace/myWorkspace~c9d71ccc-b225-4854-9946-3d0960668ffe/collection/17306682-a287fea4-8c4c-4b18-baf4-791117b740dd?action=share&source=collection_link&creator=17306682"
+	},
+	"item": [
+		{
+			"name": "/word/count",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/Users/priyam/Downloads/not_have_72ms/src/main/java/com/word/count/main/moby.txt"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8080/word/count",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"word",
+						"count"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
